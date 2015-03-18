@@ -4,6 +4,7 @@ A lot of my apps use a similar base set of services, so this repo will serve as 
 What will this consist of?
 
 Tech (./lib): 
+  * linuxbrew
   * Java
   * Scala
   * Clojure
