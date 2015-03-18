@@ -1,4 +1,4 @@
-# ![gn-000](https://s3.amazonaws.com/cherukr-github/gn-000-github.png) GN-000 
+# ![gn-000](https://s3.amazonaws.com/cherukr-github/gn-000-github.png) Gundam: v.GN-000 
 
 ***note: I'm a huge nerd and gundam has always been one my most favorite anime franchises***
 
