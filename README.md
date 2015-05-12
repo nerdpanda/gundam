@@ -9,24 +9,12 @@ What will this consist of?
 Tech (./lib): 
   * linuxbrew
   * Java
-  * Scala
-  * Clojure
+  * Node.js
+   * Sails.JS 
   * Python (Anaconda Distribution)
   * Cassandra
   * Elasticsearch
   * Kibana
   * Logstash
   * Titan
-  * Spark
-  * Storm
-  * Netflix OSS:
-    * Ribbon
-    * Eureka
-    * Hystrix
-  * Mesos
   * Docker
-  * Vagrant
-
-Services (./src): This base repo will have some basic services to serve as a typical roadmap
-
-Recipes (./recipes): The repo will include recipes to start a singleton instance (vagrant), a partially-clustered instance (docker), and a fully clustered instance (mesos+docker).
